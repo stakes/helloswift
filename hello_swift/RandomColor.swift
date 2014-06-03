@@ -20,7 +20,7 @@ class RandomColor {
     }
     
     func generateColor() -> UIColor {
-        return  UIColor(hue: self.hue, saturation: self.saturation, brightness: self.brightness, alpha: 1)
+        return UIColor(hue: self.hue, saturation: self.saturation, brightness: self.brightness, alpha: 1)
     }
 
 }

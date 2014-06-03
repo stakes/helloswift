@@ -11,7 +11,6 @@
 		0D4BBFDE193D521A007905B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4BBFDD193D521A007905B2 /* AppDelegate.swift */; };
 		0D4BBFE0193D521A007905B2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D4BBFDF193D521A007905B2 /* Images.xcassets */; };
 		0D4BBFF6193D5290007905B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D4BBFF5193D5290007905B2 /* Main.storyboard */; };
-		0D4BBFF8193D56B0007905B2 /* ToggleSwitchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4BBFF7193D56B0007905B2 /* ToggleSwitchViewController.swift */; };
 		0D4BBFFB193D5B3E007905B2 /* SwitchController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4BBFFA193D5B3E007905B2 /* SwitchController.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,7 +33,6 @@
 		0D4BBFDF193D521A007905B2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ../hello_swift/Images.xcassets; sourceTree = "<group>"; };
 		0D4BBFE5193D521A007905B2 /* hello_swifthello_swifts.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hello_swifthello_swifts.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D4BBFF5193D5290007905B2 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../hello_swift/Main.storyboard; sourceTree = "<group>"; };
-		0D4BBFF7193D56B0007905B2 /* ToggleSwitchViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ToggleSwitchViewController.swift; path = ../hello_swift/ToggleSwitchViewController.swift; sourceTree = "<group>"; };
 		0D4BBFFA193D5B3E007905B2 /* SwitchController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwitchController.swift; path = ../hello_swift/SwitchController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -78,7 +76,6 @@
 			children = (
 				0D4BBFDD193D521A007905B2 /* AppDelegate.swift */,
 				0D4BBFF5193D5290007905B2 /* Main.storyboard */,
-				0D4BBFF7193D56B0007905B2 /* ToggleSwitchViewController.swift */,
 				0D4BBFFA193D5B3E007905B2 /* SwitchController.swift */,
 				0D4BBFDF193D521A007905B2 /* Images.xcassets */,
 				0D4BBFDB193D521A007905B2 /* Supporting Files */,
@@ -196,7 +193,6 @@
 			files = (
 				0D38E451193D68DC00F99E61 /* RandomColor.swift in Sources */,
 				0D4BBFFB193D5B3E007905B2 /* SwitchController.swift in Sources */,
-				0D4BBFF8193D56B0007905B2 /* ToggleSwitchViewController.swift in Sources */,
 				0D4BBFDE193D521A007905B2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
